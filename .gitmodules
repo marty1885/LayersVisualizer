@@ -1,6 +1,3 @@
 [submodule "Easy3D"]
 	path = Easy3D
 	url = git@github.com:LiangliangNan/Easy3D.git
-[submodule "imgui"]
-	path = imgui
-	url = git@github.com:ocornut/imgui.git
