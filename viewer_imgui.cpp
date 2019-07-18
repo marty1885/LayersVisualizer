@@ -35,9 +35,9 @@
 
 #include "imgui_fonts_droid_sans.h"
 
-#include "imgui/imgui.h"
-#include "imgui/impl/imgui_impl_glfw.h"
-#include "imgui/impl/imgui_impl_opengl3.h"
+#include "Easy3D/tutorials/Tutorial_302_Viewer_imgui/imgui/imgui.h"
+#include "Easy3D/tutorials/Tutorial_302_Viewer_imgui/imgui/impl/imgui_impl_glfw.h"
+#include "Easy3D/tutorials/Tutorial_302_Viewer_imgui/imgui/impl/imgui_impl_opengl3.h"
 #include <3rd_party/glfw/include/GLFW/glfw3.h>
 #include <easy3d/viewer/drawable.h>
 
