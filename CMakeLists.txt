@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
+set(EASY3D_BUILD_TUTORIALS OFF CACHE BOOL "Build Easy3D Tutorials")
 add_subdirectory(${CMAKE_CURRENT_LIST_DIR}/Easy3D)
 
 file(GLOB IMGUI_SOURCES "${CMAKE_CURRENT_LIST_DIR}/Easy3D/tutorials/Tutorial_302_Viewer_imgui/imgui/*.cpp")
